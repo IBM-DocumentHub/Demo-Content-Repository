@@ -1,7 +1,7 @@
 {
   "title": "Demo Content Repository",
-  "owners": {"f": ["all"]},
-  "editors": {},
+  "owners": {},
+  "editors": {"demo": ["all"]},
   "viewers": {"all": ["all"]},
   "previewers": {},
   "copyright": {},
